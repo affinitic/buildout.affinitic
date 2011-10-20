@@ -1,0 +1,4 @@
+#
+# update with: svn propset svn:externals -F ./EXTERNALS.txt .
+#
+affinitic.skin http://svn.affinitic.be/plone/affinitic/affinitic.skin/trunk/
