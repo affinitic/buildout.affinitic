@@ -1,4 +1,0 @@
-#
-# update with: svn propset svn:externals -F ./EXTERNALS.txt .
-#
-affinitic.skin http://svn.affinitic.be/plone/affinitic/affinitic.skin/branches/2012oldwebsite/
